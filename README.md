@@ -1,6 +1,5 @@
 # Яндекс. Тренировки по алгоритмам июнь 2021
-
-- [https://yandex.ru/yaintern/algorithm-training_1](https://yandex.ru/yaintern/algorithm-training_1)
+[https://yandex.ru/yaintern/algorithm-training_1](https://yandex.ru/yaintern/algorithm-training_1)
 
 ## Лекция 1. «Сложность, тестирование, особые случаи»
 [https://contest.yandex.ru/contest/27393/](https://contest.yandex.ru/contest/27393/)
@@ -15,3 +14,17 @@
 - H. Метро
 - I. Узник замка Иф
 - J. Система линейных уравнений - 2
+
+## Лекция 2. «Линейный поиск»
+
+## Лекция 3. «Множества»
+
+## Лекция 4. «Словари и сортировка подсчётом»
+
+## Лекция 5. «Префиксные суммы и два указателя»
+
+## Лекция 6. «Бинарный поиск»
+
+## Лекция 7. «Сортировка событий»
+
+## Лекция 8. «Деревья»
