@@ -1,9 +1,11 @@
 Домашнее задание по лекции № 1 «Сложность, тестирование, особые случаи»
 
+[https://contest.yandex.ru/contest/27393/problems/A/](https://contest.yandex.ru/contest/27393/problems/A/)
+
 # A. Кондиционер
 
 Требуется написать программу, которая по заданной температуре в комнате `troom`, установленным на кондиционере желаемой температуре `tcond` и режиму работы определяет температуру, которая установится в комнате через час.
 
 ---
 
-Яндекс. Тренировки по алгоритмам июнь 2021: [https://yandex.ru/yaintern/algorithm-training_1](https://yandex.ru/yaintern/algorithm-training_1)
+[Яндекс. Тренировки по алгоритмам июнь 2021](https://yandex.ru/yaintern/algorithm-training_1)

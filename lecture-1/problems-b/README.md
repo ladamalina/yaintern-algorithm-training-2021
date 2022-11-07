@@ -1,5 +1,7 @@
 Домашнее задание по лекции № 1 «Сложность, тестирование, особые случаи»
 
+[https://contest.yandex.ru/contest/27393/problems/B/](https://contest.yandex.ru/contest/27393/problems/B/)
+
 # B. Треугольник
 
 Даны три натуральных числа. Возможно ли построить треугольник с такими сторонами. Если это возможно, выведите строку YES, иначе выведите строку NO.
@@ -8,4 +10,4 @@
 
 ---
 
-Яндекс. Тренировки по алгоритмам июнь 2021: [https://yandex.ru/yaintern/algorithm-training_1](https://yandex.ru/yaintern/algorithm-training_1)
+[Яндекс. Тренировки по алгоритмам июнь 2021](https://yandex.ru/yaintern/algorithm-training_1)

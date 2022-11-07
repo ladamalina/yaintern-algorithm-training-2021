@@ -1,9 +1,11 @@
 Домашнее задание по лекции № 1 «Сложность, тестирование, особые случаи»
 
+[https://contest.yandex.ru/contest/27393/problems/C/](https://contest.yandex.ru/contest/27393/problems/C/)
+
 # C. Телефонные номера
 
 Для каждого телефонного номера в адресной книге выведите YES (заглавными буквами), если он совпадает с тем телефонным номером, который Вася хочет добавить в адресную книгу или NO (заглавными буквами) в противном случае.
 
 ---
 
-Яндекс. Тренировки по алгоритмам июнь 2021: [https://yandex.ru/yaintern/algorithm-training_1](https://yandex.ru/yaintern/algorithm-training_1)
+[Яндекс. Тренировки по алгоритмам июнь 2021](https://yandex.ru/yaintern/algorithm-training_1)
