@@ -1,6 +1,6 @@
 Домашнее задание по лекции № 2 «Линейный поиск»
 
-[https://contest.yandex.ru/contest/27472/problems/D/](https://contest.yandex.ru/contest/27472/problems/D/)
+[https://contest.yandex.ru/contest/27472/problems/E/](https://contest.yandex.ru/contest/27472/problems/E/)
 
 # E. Чемпионат по метанию коровьих лепешек
 
