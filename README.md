@@ -16,10 +16,13 @@
 - J. Система линейных уравнений - 2
 
 ## Лекция 2. «Линейный поиск»
+[https://contest.yandex.ru/contest/27472/](https://contest.yandex.ru/contest/27472/)
 
 ## Лекция 3. «Множества»
+[https://contest.yandex.ru/contest/27663/](https://contest.yandex.ru/contest/27663/)
 
 ## Лекция 4. «Словари и сортировка подсчётом»
+[https://contest.yandex.ru/contest/27665/](https://contest.yandex.ru/contest/27665/)
 
 ## Лекция 5. «Префиксные суммы и два указателя»
 
