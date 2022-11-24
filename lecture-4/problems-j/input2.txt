@@ -1,0 +1,7 @@
+0 yes no
+#define INT int
+int main() {
+  INT a, b;
+  scanf("%d%d", &a, &b);
+  printf("%d %d", a + b, 0);
+}

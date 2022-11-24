@@ -1,0 +1,14 @@
+6 no no
+program
+var
+begin
+end
+while
+for
+program sum;
+var
+  A, B: integer;
+begin
+  read(A, b);
+  writeln(a + b);
+end.
